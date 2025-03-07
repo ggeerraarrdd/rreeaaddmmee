@@ -132,11 +132,3 @@ _[Recognize other projects, resources or individuals that influenced or supporte
 ## Screenshots
 
 _[Include visual examples of the project in action to help potential users understand the interface and functionality without installation.]_
-
-## About This README
-
-_[Link back to this repository.]_
-
-## Frontispiece
-
-Voelker, U. (2019). [Digital version of pages 86-87.]. In _Structuring Design: Graphic Grids in Theory and Practice_ (pp. 86-87). Niggli Editions.

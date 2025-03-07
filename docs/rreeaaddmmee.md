@@ -33,6 +33,8 @@ The current structure of _RREEAADDMMEE_ follows a logical progression that mirro
 | **Acknowledgments** <br> **Screenshots**                                                                                                 | ...and finally to some housekeeping matters.                                 |
 <!-- markdownlint-enable MD033 -->
 
+<https://github.com/user-attachments/assets/81634904-1e4e-4566-a19a-1bf27eee91f8>
+
 After a certain iteration, I began to realize that a README, when roughly drafted at the beginning, can facilitate another kind of journey: building the software itself. As my projects progressed, thinking about such mundane details as what to build and when and how useful my intended users will find what I'm coding has helped to clarify its direction and purpose. It even made the process fun and intellectually stimulating. So why not concern myself about those two critical aspects of software development—project management and the business case—from the start by writing a README first so that I can have that kind of clarity from the outset?
 
 So that’s what I’ve started doing: writing a README first, in the _RREEAADDMMEE_ format, to drive my projects from the start.

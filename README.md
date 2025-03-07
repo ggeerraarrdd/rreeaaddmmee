@@ -45,6 +45,8 @@ Check out these examples:
 
 For more info, see [About RREEAADDMMEE](docs/rreeaaddmmee.md).
 
+<https://github.com/user-attachments/assets/81634904-1e4e-4566-a19a-1bf27eee91f8>
+
 _[Provide at least one image to grab the intended user's attention. This can showcase a technical feature of the project, illustrate one of its motivating concept or convey a certain tone about the whole enterprise.]_
 
 ## Target Users

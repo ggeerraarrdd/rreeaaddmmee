@@ -17,6 +17,8 @@ _RREEAADDMMEE_ is a README template I've jerry-rigged from various examples for 
 
 Obviously one of those needs is for a format that can comprehensively document my projects, making them clear and accessible to the intended users and, hopefully by extension, lowering the barrier for actual and sustained use. This, in effect, turns the public face of my Github repositories into a platform through which I can contribute to the collective, open-source knowledge base that has helped me many times in my self-learning journey.
 
+<https://github.com/user-attachments/assets/81634904-1e4e-4566-a19a-1bf27eee91f8>
+
 The current structure of _RREEAADDMMEE_ follows a logical progression that mirrors one particular user journey—perhaps on their own self-learning journey—through my projects:
 
 <!-- markdownlint-disable MD033 -->
@@ -33,8 +35,6 @@ The current structure of _RREEAADDMMEE_ follows a logical progression that mirro
 | **Acknowledgments** <br> **Screenshots**                                                                                                 | ...and finally to some housekeeping matters.                                 |
 <!-- markdownlint-enable MD033 -->
 
-<https://github.com/user-attachments/assets/81634904-1e4e-4566-a19a-1bf27eee91f8>
-
 After a certain iteration, I began to realize that a README, when roughly drafted at the beginning, can facilitate another kind of journey: building the software itself. As my projects progressed, thinking about such mundane details as what to build and when and how useful my intended users will find what I'm coding has helped to clarify its direction and purpose. It even made the process fun and intellectually stimulating. So why not concern myself about those two critical aspects of software development—project management and the business case—from the start by writing a README first so that I can have that kind of clarity from the outset?
 
 So that’s what I’ve started doing: writing a README first, in the _RREEAADDMMEE_ format, to drive my projects from the start.
@@ -50,7 +50,7 @@ Yes, this all sounds like something you have heard before, even been forced upon
 
 That begs the question: why use "README-first development" rather than one of the more established terms (i.e., has a Wikipedia article)? A README is essentially a document, so why not Document-Driven Development, for instance? As always, context is the answer. We're in Github, where the README is a default feature.
 
-Meanwhile, _RREEAADDMMEE_ will continue to evolve but into what form as informed by what remains to be seen. In its current form, check out these reference implementations:
+Meanwhile, _RREEAADDMMEE_ will continue to evolve but into what form as informed by what remains to be seen. While in its current form, check out these reference implementations:
 
 * [eevveerryyddaayy](https://github.com/ggeerraarrdd/eevveerryyddaayy)
 * [LAFS](https://github.com/ggeerraarrdd/lafs)

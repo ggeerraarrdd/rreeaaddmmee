@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD041 -->
+[![GitHub release](https://img.shields.io/github/v/release/ggeerraarrdd/rreeaaddmmee)](https://github.com/ggeerraarrdd/rreeaaddmmee/releases)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/ggeerraarrdd/rreeaaddmmee/graphs/commit-activity)
+![Static Badge](https://img.shields.io/badge/repo-no_code-blue)
+<!-- markdownlint-enable MD041 -->
+
 # About RREEAADDMMEE
 
 ## Short Version
